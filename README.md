@@ -63,11 +63,43 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assignment-sets&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=assignment-sets&show_icons=true&count_private=true&hide_border=true&title_color=f85149&icon_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=assignment-sets&hide_border=true&theme=radical&background=0d1117&stroke=f85149&ring=ff6ac2&fire=ff6ac2&currStreakNum=ff6ac2&currStreakLabel=ff6ac2&sideNums=f85149&sideLabels=f85149&dates=9f9f9f" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Top Languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=compact&hide_border=true&title_color=f85149&text_color=9f9f9f&bg_color=0d1117" alt="Most Used Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=assignment-sets&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <!-- GitHub Contribution Graph -->
+  <a href="https://github.com/assignment-sets">
+    <img width="99%" alt="Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assignment-sets&theme=radical" />
+  </a>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/assignment-sets">
+    <img width="99%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=assignment-sets&bg_color=0d1117&color=f85149&line=ff6ac2&point=f85149&area=true&hide_border=true" />
+  </a>
+  
+  <!-- Contribution Heatmap -->
+  <img src="https://github-contribution-stats.vercel.app/api/?username=assignment-sets&theme=radical" alt="Contribution Stats" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assignment-sets&theme=radical" alt="GitHub Streak" />
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/assignment-sets/your-repo-name">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=assignment-sets&repo=your-repo-name&title_color=f85149&icon_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/assignment-sets/your-other-repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=assignment-sets&repo=your-other-repo&title_color=f85149&icon_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
+  </a>
 </div>
 
 ## 🤝 Let's Connect!
@@ -82,6 +114,17 @@ Feel free to reach out if you want to collaborate on projects or just have a cha
 </div>
 
 ---
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=assignment-sets&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=assignment-sets&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <i>Thanks for visiting my profile! Have a great day! 👋</i>
