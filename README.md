@@ -77,22 +77,6 @@
   <!-- Top Languages -->
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=compact&hide_border=true&title_color=f85149&text_color=9f9f9f&bg_color=0d1117" alt="Most Used Languages" />
 
-  <!-- GitHub Contribution Graph -->
-  <a href="https://github.com/assignment-sets">
-    <img width="99%" alt="Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assignment-sets&theme=radical" />
-  </a>
-  
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/assignment-sets/your-repo-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=assignment-sets&repo=your-repo-name&title_color=f85149&icon_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/assignment-sets/your-other-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=assignment-sets&repo=your-other-repo&title_color=f85149&icon_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
-  </a>
-</div>
 
 ## 🤝 Let's Connect!
 
