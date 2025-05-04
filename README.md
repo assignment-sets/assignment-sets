@@ -82,14 +82,6 @@
     <img width="99%" alt="Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assignment-sets&theme=radical" />
   </a>
   
-  <!-- Activity Graph -->
-  <a href="https://github.com/assignment-sets">
-    <img width="99%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=assignment-sets&bg_color=0d1117&color=f85149&line=ff6ac2&point=f85149&area=true&hide_border=true" />
-  </a>
-  
-  <!-- Contribution Heatmap -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=assignment-sets&theme=radical" alt="Contribution Stats" />
-</div>
 
 ## 📌 Pinned Repositories
 
@@ -114,17 +106,6 @@ Feel free to reach out if you want to collaborate on projects or just have a cha
 </div>
 
 ---
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=assignment-sets&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=assignment-sets&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>Thanks for visiting my profile! Have a great day! 👋</i>
