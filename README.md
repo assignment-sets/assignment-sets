@@ -77,24 +77,12 @@
   <!-- Enhanced Language Stats with Card Layout -->
   <h3>📊 Most Used Languages</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <!-- Main Language Stats -->
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=compact&hide_border=true&title_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117&hide=html" alt="Most Used Languages" />
+  
     
-    <!-- Donut Chart for Languages -->
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=donut&hide_border=true&title_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117" alt="Language Distribution" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=compact&hide_border=true&title_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117" alt="Language Distribution" />
+
   </div>
   
-  <!-- Language Progress Bars (Optional but adds a nice touch) -->
-  <div align="center">
-    <h4>💡 Language Proficiency</h4>
-    <p>
-      <img src="https://img.shields.io/badge/Java-90%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-75%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    </p>
-  </div>
-</div>
 
 ## 🤝 Let's Connect!
 
