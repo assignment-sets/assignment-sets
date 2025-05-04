@@ -91,10 +91,6 @@ Feel free to reach out if you want to collaborate on projects or just have a cha
   
 </div>
 
-<!-- Visitor Counter - Nice additional touch -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=assignment-sets&label=Profile%20Visits&color=ff6ac2&style=for-the-badge" alt="Profile Visits" />
-</div>
 
 ---
 
