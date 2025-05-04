@@ -75,13 +75,9 @@
   </table>
   
   <!-- Enhanced Language Stats with Card Layout -->
-  <h3>📊 Most Used Languages</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  
-    
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=compact&hide_border=true&title_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117" alt="Language Distribution" />
+  ## 📊 Most Used Languages
 
-  </div>
+  ![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=assignment-sets&layout=compact&hide_border=true&title_color=ff6ac2&text_color=9f9f9f&bg_color=0d1117)
   
 
 ## 🤝 Let's Connect!
