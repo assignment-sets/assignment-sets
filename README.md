@@ -37,7 +37,7 @@ Feel free to reach out if you want to collaborate on projects or just have a cha
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B275F?style=for-the-badge)](https://d1u0etmu6yo2df.cloudfront.net/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B275F?style=for-the-badge)](https://dev.gourabmondal.live/)
 [![Email](https://img.shields.io/badge/Email-gourab.m099@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gourab.m099@gmail.com)
   
 </div>
