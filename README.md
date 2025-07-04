@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/gourab-mondal-gm2004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/b26_cse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode)](https://www.leetcode.com/lit_dumb0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/dumb0/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:gourab.m099@gmail.com)
 
 </div>
