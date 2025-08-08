@@ -9,7 +9,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 > Backend Developer and GenAI enthusiast from India, passionate about building scalable applications and exploring AI innovations.
 
