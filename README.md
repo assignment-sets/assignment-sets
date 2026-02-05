@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/gourab-mondal-gm2004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/b26_cse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/dumb0/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:gourab.m099@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=gourab.m099@gmail.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 > Backend Developer and GenAI enthusiast from India, passionate about building scalable applications and exploring AI innovations.
 
-- 🌱 Currently learning **Spring-boot | Node.js | Langchain**
+- 🌱 Currently learning **Spring-boot | Gen AI | System Design**
 - 🔗 Portfolio: [Visit My Portfolio](https://dev.gourabmondal.live/)
 - 📄 Resume: [View My Resume](https://personal-vault-gm2004.s3.ap-south-1.amazonaws.com/resume/Resume(v1).pdf)
 
@@ -38,7 +38,7 @@ Feel free to reach out if you want to collaborate on projects or just have a cha
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B275F?style=for-the-badge)](https://dev.gourabmondal.live/)
-[![Email](https://img.shields.io/badge/Email-gourab.m099@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gourab.m099@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gourab.m099@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gourab.m099@gmail.com)
   
 </div>
 
