@@ -14,7 +14,7 @@
 > Backend Developer and GenAI enthusiast from India, passionate about building scalable applications and exploring AI innovations.
 
 - 🌱 Currently learning **Spring-boot | Gen AI | System Design**
-- 🔗 Portfolio: [Visit My Portfolio](https://dev.gourabmondal.live/)
+- 🔗 Portfolio: [Visit My Portfolio](https://profile.gourabmondal.live/)
 - 📄 Resume: [View My Resume](https://personal-vault-gm2004.s3.ap-south-1.amazonaws.com/resume/Resume(v1).pdf)
 
 ## 📊 GitHub Stats
