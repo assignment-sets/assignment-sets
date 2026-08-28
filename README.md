@@ -4,7 +4,7 @@ Developer from India.
 Building things with NodeJs, Python, Java, FastAPI, Spring Boot, and whatever else gets the job done.
 
 - 🌱 Currently into: Spring Boot, GenAI, System Design, TS, NodeJs
-- 🔗 [Portfolio](https://hellogourab.github.io/portfolio/?utm_source=github&utm_medium=profile) · [Resume](https://personal-vault-gm2004.s3.ap-south-1.amazonaws.com/resume/Resume(v1).pdf)
+- 🔗 [Portfolio](https://hellogourab.github.io/portfolio/?utm_source=github&utm_medium=profile) · [Resume](https://my-resumes-788125169240-ap-south-1-an.s3.ap-south-1.amazonaws.com/resume.pdf)
 
 ---
 
